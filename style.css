@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#map-container {
+    border: 1px solid black;
+    min-height: 500px;
+    position: relative;
+}
+
+#search-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.location {
+    position: absolute;
+    padding: 10px;
+    border: 1px solid #ccc;
+    cursor: pointer;
+}
+
+.location.highlight {
+    background-color: yellow;
+    border-color: red;
+}
+
+.classroom {
+    background-color: #f9f9f9;
+}
+
+.hallway {
+    background-color: #eee;
+}
+
+.stairs {
+    background-color: #ddd;
+}
+
+.elevator {
+    background-color: #ccc;
+}
+
+.bathroom {
+    background-color: #bbb;
+}
