@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Student+Developer;Building+Software+and+Systems;Aviation+%26+Infrastructure+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Student+Developer;Building+Real+World+Systems;Aviation+%26+Infrastructure+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 <h1 align="center">Hi, I'm Juuso 👋</h1>
@@ -12,14 +12,14 @@ Student Developer from Finland 🇫🇮
 
 ## 🚀 About Me
 
-I'm a developer focused on building real-world systems and learning how software connects to infrastructure.
+I'm focused on building real, useful software systems and learning how modern infrastructure and applications work.
 
-- 💻 I enjoy building software and tools
-- ✈️ Interested in aviation systems and technology
-- 🖥️ Exploring homelab setups and self-hosting
+- 💻 Building software and tools
+- ✈️ Interested in aviation systems and real-world tech
+- 🖥️ Exploring homelabs and self-hosting
 - 🌐 Learning web development and backend systems
 - ⚙️ Interested in automation and system design
-- 📚 Always improving my programming skills
+- 📚 Constantly improving as a developer
 
 ---
 
@@ -44,38 +44,35 @@ I'm a developer focused on building real-world systems and learning how software
 
 ---
 
+## 🚀 Featured Projects
+
+### 🗺️ KSYK Maps
+A mapping and navigation-style project designed for school-related or internal use cases. Focused on usability, structure, and real-world application of location-based systems.
+
+### 📚 Stemly
+A STEM + coding learning platform inspired by interactive learning systems. Combines structured lessons with hands-on coding and problem-solving to make learning more engaging and practical.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JuusoJuusto&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuusoJuusto&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🔥 Current Focus
 
-- Building useful software projects
-- Learning backend architecture
-- Improving system design skills
-- Working with infrastructure and automation
-- Exploring aviation-related systems
-
----
-
-## 🚀 Featured Projects
-
-### ⚙️ Project One
-A tool or system I'm currently building.
-
-### 🌐 Project Two
-A web or backend project focused on real-world use.
-
-### 🧠 Project Three
-An experimental or learning-based project.
+- Building real-world software projects
+- Developing Stemly into a full learning platform
+- Improving backend and system design skills
+- Working on mapping and utility-based applications
+- Exploring infrastructure and automation
 
 ---
 
@@ -83,12 +80,12 @@ An experimental or learning-based project.
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/GitHub-YOUR_USERNAME-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-JuusoJuusto-181717?style=for-the-badge&logo=github" />
 
 </p>
 
 ---
 
 <p align="center">
-  “Build. Break. Learn. Repeat.”
+  “Build things that actually solve problems.”
 </p>
